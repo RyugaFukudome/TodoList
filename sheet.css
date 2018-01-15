@@ -1,0 +1,32 @@
+#font{
+font-size: 30px;
+text-align:  center;
+}
+
+
+#regist {
+    width:400px;
+    height: 50px;
+    font-size: 30px;
+    color:  #fff;
+    background-color: #9888FF;
+}
+
+#list{
+    width:200px;
+    height: 30px;
+}
+
+#logout {
+    width:400px;
+    height: 50px;
+    font-size: 30px;
+    color:  #fff;
+    background-color: #9888FF;
+    margin-top: 150px;
+}
+
+#table{
+    font-size: 1000px;
+    text-align: center;
+}
